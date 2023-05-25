@@ -11,7 +11,6 @@
 	<groupId>co.edu.jdc</groupId>
 	<artifactId>IoTDataAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>IoTDataAPI</name>
 	<description>API para colección de datos Iot</description>
 	<properties>
